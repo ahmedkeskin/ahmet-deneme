@@ -1,0 +1,5 @@
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\bin\Release\net7.0\publish\linux-x64\DateTest
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\bin\Release\net7.0\publish\linux-x64\DateTest.dll
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\bin\Release\net7.0\publish\linux-x64\DateTest.deps.json
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\bin\Release\net7.0\publish\linux-x64\DateTest.runtimeconfig.json
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\bin\Release\net7.0\publish\linux-x64\DateTest.pdb

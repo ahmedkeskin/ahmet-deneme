@@ -1,0 +1,15 @@
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\bin\Release\net7.0\linux-x64\DateTest
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\bin\Release\net7.0\linux-x64\DateTest.deps.json
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\bin\Release\net7.0\linux-x64\DateTest.runtimeconfig.json
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\bin\Release\net7.0\linux-x64\DateTest.dll
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\bin\Release\net7.0\linux-x64\DateTest.pdb
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\obj\Release\net7.0\linux-x64\DateTest.csproj.AssemblyReference.cache
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\obj\Release\net7.0\linux-x64\DateTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\obj\Release\net7.0\linux-x64\DateTest.AssemblyInfoInputs.cache
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\obj\Release\net7.0\linux-x64\DateTest.AssemblyInfo.cs
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\obj\Release\net7.0\linux-x64\DateTest.csproj.CoreCompileInputs.cache
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\obj\Release\net7.0\linux-x64\DateTest.dll
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\obj\Release\net7.0\linux-x64\refint\DateTest.dll
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\obj\Release\net7.0\linux-x64\DateTest.pdb
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\obj\Release\net7.0\linux-x64\DateTest.genruntimeconfig.cache
+C:\Users\ahmet.keskin\source\repos\ahmedkeskin\ahmet-deneme\DateTest\obj\Release\net7.0\linux-x64\ref\DateTest.dll
